@@ -1,0 +1,20 @@
+[
+ {"vd":true,"rank":1,"data":{"HP":3,"Money":10,"ATK":3,"DEF":5,"LER":0}},
+ {"vd":true,"rank":2,"data":{"HP":5,"Money":15,"ATK":5,"DEF":10,"LER":0}},
+ {"vd":true,"rank":3,"data":{"HP":7,"Money":0,"ATK":5,"DEF":15,"LER":0}},
+ {"vd":true,"rank":4,"data":{"HP":8,"Money":10,"ATK":6,"DEF":1,"LER":0}},
+ {"vd":true,"rank":5,"data":{"HP":5,"Money":15,"ATK":8,"DEF":1,"LER":1}},
+ {"vd":true,"rank":6,"data":{"HP":10,"Money":23,"ATK":10,"DEF":0,"LER":1}},
+ {"vd":true,"rank":7,"data":{"HP":12,"Money":20,"ATK":11,"DEF":1,"LER":2}},
+ {"vd":true,"rank":8,"data":{"HP":15,"Money":25,"ATK":12,"DEF":1,"LER":2}},
+ {"vd":true,"rank":9,"data":{"HP":20,"Money":35,"ATK":15,"DEF":0,"LER":2}},
+ {"vd":false,"rank":1,"data":{"HP":-2,"Money":-5,"ATK":-2,"DEF":-2,"LER":0}},
+ {"vd":false,"rank":2,"data":{"HP":-5,"Money":-10,"ATK":-5,"DEF":0,"LER":0}},
+ {"vd":false,"rank":3,"data":{"HP":-10,"Money":-15,"ATK":-10,"DEF":-1,"LER":0}},
+ {"vd":false,"rank":4,"data":{"HP":-8,"Money":-12,"ATK":-7,"DEF":3,"LER":0}},
+ {"vd":false,"rank":5,"data":{"HP":-10,"Money":-18,"ATK":-10,"DEF":6,"LER":-1}},
+ {"vd":false,"rank":6,"data":{"HP":0,"Money":-20,"ATK":-9,"DEF":-10,"LER":-1}},
+ {"vd":false,"rank":7,"data":{"HP":-12,"Money":-25,"ATK":0,"DEF":-13,"LER":-2}},
+ {"vd":false,"rank":8,"data":{"HP":-14,"Money":-30,"ATK":-10,"DEF":-10,"LER":-2}},
+ {"vd":false,"rank":9,"data":{"HP":-15,"Money":-35,"ATK":-13,"DEF":-12,"LER":-2}}
+]

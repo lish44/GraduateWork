@@ -1,0 +1,11 @@
+[
+ {"Rank":1,"ATK":30,"DEF":20,"Damage":5},
+ {"Rank":2,"ATK":35,"DEF":25,"Damage":7},
+ {"Rank":3,"ATK":40,"DEF":40,"Damage":9},
+ {"Rank":4,"ATK":45,"DEF":35,"Damage":11},
+ {"Rank":5,"ATK":60,"DEF":40,"Damage":15},
+ {"Rank":6,"ATK":80,"DEF":70,"Damage":16},
+ {"Rank":7,"ATK":100,"DEF":60,"Damage":18},
+ {"Rank":8,"ATK":120,"DEF":80,"Damage":15},
+ {"Rank":9,"ATK":150,"DEF":80,"Damage":30}
+]

@@ -1,0 +1,12 @@
+[
+{"Name":"BGM","Path":"Audio/BGM"},
+{"Name":"BGM1","Path":"Audio/BGM1"},
+{"Name":"Click","Path":"Audio/Click"},
+{"Name":"Defeat","Path":"Audio/Defeat"},
+{"Name":"Ensure","Path":"Audio/Ensure"},
+{"Name":"Pk","Path":"Audio/Pk"},
+{"Name":"Selection","Path":"Audio/Selection"},
+{"Name":"Victory","Path":"Audio/Victory"},
+{"Name":"Xiu","Path":"Audio/Xiu"},
+{"Name":"Yes","Path":"Audio/Yes"}
+]
